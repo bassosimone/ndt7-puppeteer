@@ -1,0 +1,22 @@
+{
+  "name": "ndt7-puppeteer",
+  "version": "0.0.1",
+  "description": "Runs ndt7 using puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bassosimone/ndt7-puppeteer.git"
+  },
+  "author": "Simone Basso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bassosimone/ndt7-puppeteer/issues"
+  },
+  "homepage": "https://github.com/bassosimone/ndt7-puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^1.17.0"
+  }
+}
